@@ -36,6 +36,7 @@
 
 <img src="https://img.shields.io/github/followers/wwg135?label=Followers&amp;style=for-the-badge&amp;color=89CFF0&amp;logo=github" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwwg135&amp;query=public_repos&amp;label=Public%20Repos&amp;style=for-the-badge&amp;color=89CFF0&amp;logo=github" />
+<img src="https://img.shields.io/badge/Forks-10-89CFF0?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
 
 </div>
 
