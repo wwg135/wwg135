@@ -43,23 +43,6 @@
 
 ---
 
-<h2 align="center">🛠 技术栈</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&amp;logo=apple&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&amp;logo=swift&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Logos-6B5B95?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
-
-</div>
-
----
-
 <h2 align="center">📂 全部项目</h2>
 
 > ⑂ 表示 fork 后自用 / 二次开发的项目
