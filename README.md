@@ -23,10 +23,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=wwg135&amp;color=89CFF0&amp;style=for-the-badge" alt="Profile Views" />
-
-<br /><br />
-
 <b>⭐ 欢迎 Follow & Star，感谢来访 ⭐</b>
 
 </div>
